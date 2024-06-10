@@ -1,5 +1,2 @@
-alpine
-python:alpine3.19
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 whyour/qinglong:latest
-
+linuxserver/heimdall
