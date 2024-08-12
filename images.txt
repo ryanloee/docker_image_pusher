@@ -2,4 +2,5 @@ whyour/qinglong:latest
 linuxserver/heimdall
 tailscale/tailscale
 itzg/minecraft-server
-dabondi/go-rest-wol
+chishin/wol-go-web
+
