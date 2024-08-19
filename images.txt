@@ -3,4 +3,4 @@ linuxserver/heimdall
 tailscale/tailscale
 itzg/minecraft-server
 jazzdd/wol
-emby/embyserver
+zishuo/embyserver
