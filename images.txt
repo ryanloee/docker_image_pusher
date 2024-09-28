@@ -4,3 +4,4 @@ tailscale/tailscale
 itzg/minecraft-server
 jazzdd/wol
 jellyfin/jellyfin
+emby/embyserver
