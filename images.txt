@@ -5,3 +5,4 @@ itzg/minecraft-server
 jazzdd/wol
 jellyfin/jellyfin
 amilys/embyserver
+jeessy/ddns-go
