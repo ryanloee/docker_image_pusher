@@ -6,3 +6,4 @@ jazzdd/wol
 jellyfin/jellyfin
 amilys/embyserver
 jeessy/ddns-go
+portainer/portainer
