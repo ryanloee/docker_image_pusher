@@ -7,3 +7,4 @@ jellyfin/jellyfin
 amilys/embyserver
 jeessy/ddns-go
 portainer/portainer
+haishanh/yacd
