@@ -9,4 +9,4 @@ jeessy/ddns-go
 portainer/portainer
 haishanh/yacd
 linuxserver/qbittorrent
-oznu/cloudflare-ddns
+alcapone1933/ddns-ipv64
