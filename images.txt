@@ -1,4 +1,4 @@
-whyour/qinglong:latest
+whyour/qinglong
 linuxserver/heimdall
 tailscale/tailscale
 itzg/minecraft-server
@@ -9,4 +9,4 @@ jeessy/ddns-go
 portainer/portainer
 haishanh/yacd
 linuxserver/qbittorrent
-alcapone1933/ddns-ipv64
+cnk3x/xunlei
