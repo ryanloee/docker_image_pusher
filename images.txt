@@ -10,3 +10,4 @@ portainer/portainer
 haishanh/yacd
 linuxserver/qbittorrent
 cnk3x/xunlei
+talebook/talebook
