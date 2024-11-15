@@ -14,3 +14,4 @@ talebook/talebook
 manthanp/readeck
 linuxserver/wireguard
 weejewel/wg-easy
+kasmweb/chrome
