@@ -15,4 +15,4 @@ manthanp/readeck
 weejewel/wg-easy
 ollama/ollama
 justsong/one-api
-backplane/open-webui
+backplane/open-webui:0-ollama
