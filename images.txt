@@ -15,3 +15,4 @@ manthanp/readeck
 weejewel/wg-easy
 ollama/ollama
 justsong/one-api
+ghcr.io/open-webui/open-webui:main
