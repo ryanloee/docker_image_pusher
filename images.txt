@@ -14,5 +14,4 @@ talebook/talebook
 manthanp/readeck
 weejewel/wg-easy
 ollama/ollama
-justsong/one-api
-backplane/open-webui:0-ollama
+ghcr.io/open-webui/open-webui:main
