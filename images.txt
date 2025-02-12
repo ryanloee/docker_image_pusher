@@ -17,3 +17,4 @@ ollama/ollama
 ghcr.io/open-webui/open-webui:main
 mzzsfy/auto-proxy-pool
 xhongc/music_tag_web:latest
+k4yt3x/video2x:latest
