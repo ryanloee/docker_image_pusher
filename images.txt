@@ -18,4 +18,5 @@ ghcr.io/open-webui/open-webui:main
 mzzsfy/auto-proxy-pool
 xhongc/music_tag_web:latest
 guovern/iptv-api:latest
-budtmo/docker-android:emulator_13.0
+diygod/rsshub:latest
+wangqiru/ttrss:latest
