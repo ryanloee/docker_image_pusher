@@ -20,4 +20,4 @@ xhongc/music_tag_web:latest
 guovern/iptv-api:latest
 diygod/rsshub:latest
 wangqiru/ttrss:latest
-homebrew/ubuntu18.04
+homebrew/ubuntu18.04:latest
